@@ -1,0 +1,11 @@
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Release\IRCServer1.exe.config
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Release\IRCServer1.exe
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Release\IRCServer1.pdb
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Release\log4net.dll
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Release\Utilities.dll
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\obj\x86\Release\IRCServer1.exe
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\obj\x86\Release\IRCServer1.pdb
+C:\Users\Ahmad\Desktop\IRCServer1\IRCServer1\IRCServer1\bin\Release\IRCServer1.exe.config
+C:\Users\Ahmad\Desktop\IRCServer1\IRCServer1\IRCServer1\obj\x86\Release\IRCServer1.exe
+C:\Users\Ahmad\Desktop\IRCServer1\IRCServer1\IRCServer1\obj\x86\Release\IRCServer1.pdb

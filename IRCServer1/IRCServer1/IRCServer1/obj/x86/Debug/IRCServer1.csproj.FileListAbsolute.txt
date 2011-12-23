@@ -1,0 +1,2 @@
+C:\Users\Abdel Ghany\AppData\Local\Temporary Projects\IRCServer1\bin\Debug\IRCServer1.exe.config
+C:\Users\Abdel Ghany\Desktop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe.config
