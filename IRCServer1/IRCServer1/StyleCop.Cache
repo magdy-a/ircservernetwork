@@ -171,9 +171,6 @@
     <milliseconds>268</milliseconds>
     <violations />
   </sourcecode>
-  <project key="1354414984">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="CommandFactory.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
     <settings>
       <timestamp>01/09/2012 15:32:07</timestamp>
@@ -183,4 +180,7 @@
     <milliseconds>357</milliseconds>
     <violations />
   </sourcecode>
+  <project key="1354414984">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

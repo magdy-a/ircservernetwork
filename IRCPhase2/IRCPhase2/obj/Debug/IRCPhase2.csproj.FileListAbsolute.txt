@@ -16,3 +16,6 @@ E:\College\Networking\Lab\Backup\Phase 2\12 8-PM Working\IRCPhase2\IRCPhase2\bin
 E:\College\Networking\Lab\Backup\Phase 2\12 8-PM Working\IRCPhase2\IRCPhase2\bin\Debug\Utilities.dll
 E:\College\Networking\Lab\Backup\Phase 2\12 8-PM Working\IRCPhase2\IRCPhase2\bin\Debug\log4net.xml
 E:\College\Networking\Lab\Backup\Phase 2\12 8-PM Working\IRCPhase2\IRCPhase2\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Lab\IRCProject\IRCPhase2\IRCPhase2\bin\Debug\IRCPhase2.exe.config
+E:\College\Networking\Lab\IRCProject\IRCPhase2\IRCPhase2\obj\Debug\IRCPhase2.exe
+E:\College\Networking\Lab\IRCProject\IRCPhase2\IRCPhase2\obj\Debug\IRCPhase2.pdb
