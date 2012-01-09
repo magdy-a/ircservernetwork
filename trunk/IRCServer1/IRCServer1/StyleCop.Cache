@@ -1,0 +1,186 @@
+<stylecopresultscache>
+  <version>11</version>
+  <sourcecode name="ServerBackend.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 13:40:31</timestamp>
+    <milliseconds>950</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IServer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:03:05</timestamp>
+    <milliseconds>439</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IRCServer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:06:40</timestamp>
+    <milliseconds>809</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:07:06</timestamp>
+    <milliseconds>211</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="User.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>12/17/2011 18:29:20</timestamp>
+    <milliseconds>802</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>12/17/2011 18:29:23</timestamp>
+    <milliseconds>888</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Errors.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:41:32</timestamp>
+    <milliseconds>203</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommandParser.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:51:08</timestamp>
+    <milliseconds>158</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Session.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 14:57:44</timestamp>
+    <milliseconds>841</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommandFactory.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:00:49</timestamp>
+    <milliseconds>579</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IRCCommandBase.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:03:42</timestamp>
+    <milliseconds>580</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="NICKCommand.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:06:39</timestamp>
+    <milliseconds>868</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PRIVMSGCommand.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:10:04</timestamp>
+    <milliseconds>72</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="QUITCommand.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:11:57</timestamp>
+    <milliseconds>980</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="USERcommand.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:13:22</timestamp>
+    <milliseconds>953</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="NICKCommandHandler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:19:50</timestamp>
+    <milliseconds>314</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PRIVMSGCommandHandler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:19:50</timestamp>
+    <milliseconds>314</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="QUITCommandHandler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:19:50</timestamp>
+    <milliseconds>324</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="USERCommandHandler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:20:19</timestamp>
+    <milliseconds>496</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CommandHandlerBase.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>01/09/2012 13:41:03</timestamp>
+      <milliseconds>41</milliseconds>
+    </settings>
+    <timestamp>01/09/2012 15:21:55</timestamp>
+    <milliseconds>782</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="1524978281">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+</stylecopresultscache>

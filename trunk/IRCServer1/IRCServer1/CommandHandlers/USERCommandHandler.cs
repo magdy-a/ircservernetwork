@@ -1,13 +1,22 @@
-﻿using System;
-using IRCServer1.Backend;
-using IRCServer1.Entities;
-using IRCServer1.Entities.Commands;
-using IRCServer1.Utilities;
-
-namespace IRCServer1.CommandHandlers
+﻿namespace IRCServer1.CommandHandlers
 {
+    using System;
+    using Backend;
+    using Entities;
+    using Entities.Commands;
+    using Utilities;
+
+    /// <summary>
+    /// Handles user command
+    /// </summary>
     internal class USERCommandHandler : CommandHandlerBase
     {
+        /// <summary>
+        /// Handlse The USER Command 
+        /// </summary>
+        /// <param name="command">The Command that I Will Handle</param>
+        /// <param name="session">holds my data</param>
+        /// <returns>Reponse to this command</returns>
         public override string HandleCommand(IRCCommandBase command, Session session)
         {
             if (command is USERcommand)

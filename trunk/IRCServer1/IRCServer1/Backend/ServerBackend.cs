@@ -1,14 +1,28 @@
-﻿using System.Collections.Generic;
-using IRCServer1.Entities;
-
-namespace IRCServer1.Backend
+﻿namespace IRCServer1.Backend
 {
+    using System.Collections.Generic;
+    using Entities;
+
+    /// <summary>
+    /// Where I Mange The Server Data Such as : Users,Sessions,etc
+    /// </summary>    
     public class ServerBackend
-    {
+    {       
+        /// <summary>
+        /// An Object Of ServerBackend To Use Within The Code 
+        /// </summary>
         private static ServerBackend instance;
 
-        private ServerBackend() { }
+        /// <summary>
+        /// Prevents a default instance of the ServerBackend class from being created
+        /// </summary>
+        private ServerBackend()
+        {
+        }
 
+        /// <summary>
+        /// Gets Server Data For Me To Use 
+        /// </summary>
         public static ServerBackend Instance
         {
             get
@@ -19,24 +33,10 @@ namespace IRCServer1.Backend
                     instance.Users = new List<Entities.User>();
                     instance.ClientSessions = new List<Entities.Session>();
                 }
+
                 return instance;
             }
         }
-
-        public Session GetUserSession(string target)
-        {
-            for (int i = 0; i < ClientSessions.Count; i++)
-            {
-                if (ClientSessions[i].User.Nickname == target && ClientSessions[i].ConnectionState == ConnectionState.Registered)
-                {
-                    return ClientSessions[i];
-                }
-            }
-
-            return null;
-        }
-
-        public List<Entities.User> Users { get; set; }
 
         /// <summary>
         /// Gets or sets the client sessions.
@@ -45,5 +45,28 @@ namespace IRCServer1.Backend
         /// The client sessions.
         /// </value>
         public List<Session> ClientSessions { get; set; }
+
+        /// <summary>
+        /// Gets or sets The User Of The Server To Use
+        /// </summary>
+        public List<Entities.User> Users { get; set; }
+                        
+        /// <summary>
+        /// Returns The Session Of A Certain User.
+        /// </summary>
+        /// <param name="target">The Nick Name Of The Usre That I Want To Return The Session Of</param>
+        /// <returns>Session For A Certain User</returns>
+        public Session GetUserSession(string target)
+        {
+            for (int i = 0; i < this.ClientSessions.Count; i++)
+            {
+                if (this.ClientSessions[i].User.Nickname == target && this.ClientSessions[i].ConnectionState == ConnectionState.Registered)
+                {
+                    return this.ClientSessions[i];
+                }
+            }
+
+            return null;
+        }
     }
 }
