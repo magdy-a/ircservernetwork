@@ -1,8 +1,11 @@
-﻿using System;
-
-namespace IRCServer1
+﻿namespace IRCServer1
 {
-    interface IServer
+    using System;
+
+    /// <summary>
+    /// Interface Class That Will Have Abstract Methods For The Server To Inharet From
+    /// </summary>
+    public interface IServer
     {
         /// <summary>
         /// Starts the server.
@@ -17,19 +20,19 @@ namespace IRCServer1
         /// <summary>
         /// Accepts a client connection, and waits asynchronously for commands from the accepted client.
         /// </summary>
-        /// <param name="result"></param>
+        /// <param name="result">IAsyncResult That Is Used For The Callback</param>
         void AcceptConnection(IAsyncResult result);
 
         /// <summary>
         /// Receives a command from a client, executes it and sends response to the client.
         /// </summary>
-        /// <param name="result"></param>
+        /// <param name="result">IAsyncResult That Is Used For The Callback</param>
         void ReceiveCommand(IAsyncResult result);
 
         /// <summary>
         /// Finalizes sending the response to the client.
         /// </summary>
-        /// <param name="result"></param>
+        /// <param name="result">IAsyncResult That Is Used For The Callback</param>
         void FinalizeSending(IAsyncResult result);
     }
 }

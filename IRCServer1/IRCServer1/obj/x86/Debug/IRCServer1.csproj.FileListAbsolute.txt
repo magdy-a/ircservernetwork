@@ -22,3 +22,15 @@ C:\Users\Ahmad\Desktop\IRCServer1AAAA3\IRCServer1AAAA2\IRCServer1\IRCServer1\bin
 C:\Users\Ahmad\Desktop\IRCServer1AAAA3\IRCServer1AAAA2\IRCServer1\IRCServer1\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Ahmad\Desktop\IRCServer1AAAA3\IRCServer1AAAA2\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.exe
 C:\Users\Ahmad\Desktop\IRCServer1AAAA3\IRCServer1AAAA2\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.pdb
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe.config
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.exe
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.pdb
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\bin\Debug\IRCServer1.pdb
+D:\SVNSnyc\IRCServer\IRCServer1\IRCServer1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe.config
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.exe
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.pdb
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.pdb
+C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\obj\x86\Debug\ResolveAssemblyReference.cache

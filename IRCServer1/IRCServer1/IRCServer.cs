@@ -1,22 +1,34 @@
-﻿using System;
-using System.Net;
-using System.Net.Sockets;
-using System.Text;
-using IRCServer1.Backend;
-using IRCServer1.Entities;
-using IRCServer1.Entities.Commands;
-using IRCServer1.Utilities;
-
-namespace IRCServer1
+﻿namespace IRCServer1
 {
+    using System;
+    using System.Net;
+    using System.Net.Sockets;
+    using System.Text;
+    using Backend;
+    using Entities;
+    using Entities.Commands;
+    using Utilities;
+    
+    /// <summary>
+    /// This is the server class that is used with inhartance of IServer
+    /// </summary> 
     internal class IRCServer1 : IServer
     {
-        Socket server;
+        /// <summary>
+        /// The Socket That The Server Will Connect To
+        /// </summary>
+        private Socket server;
 
-        int port;
+        /// <summary>
+        /// The Port That Is Used To Bind Function In The Server
+        /// </summary>
+        private int port;
 
         #region IServer Members
-
+        /// <summary>
+        /// Initializes a new instance of the IRCServer1 class with port number
+        /// </summary>
+        /// <param name="port">the port number that will be used in this class</param>
         public IRCServer1(int port)
         {
             this.port = port;
@@ -27,10 +39,10 @@ namespace IRCServer1
         /// </summary>
         public void Start()
         {
-            server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            server.Bind(new IPEndPoint(IPAddress.Parse("127.0.0.1"), port));
-            server.Listen(1000);
-            WaitForConnections();
+           this.server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+           this.server.Bind(new IPEndPoint(IPAddress.Parse("127.0.0.1"), this.port));
+           this.server.Listen(1000);
+           this.WaitForConnections();
         }
 
         /// <summary>
@@ -38,37 +50,41 @@ namespace IRCServer1
         /// </summary>
         public void WaitForConnections()
         {
-            server.BeginAccept(new AsyncCallback(AcceptConnection), server);
+            this.server.BeginAccept(new AsyncCallback(this.AcceptConnection), this.server);
         }
 
         /// <summary>
         /// When a client is connected and begins the receive function and writes "Connected To Client" .
         /// </summary>
-        /// <param name="result">IAsyncResult</param>
+        /// <param name="result">IAsyncResult That Will Be Used For The Call Back</param>
         public void AcceptConnection(IAsyncResult result)
         {
             Socket tmpClient = null;
 
             try
             {
-                tmpClient = server.EndAccept(result);
+                tmpClient = this.server.EndAccept(result);
             }
             catch
             {
-                WaitForConnections();
+                this.WaitForConnections();
                 return;
             }
 
-            WaitForConnections();
+            this.WaitForConnections();
 
             Session tmpSession = new Session();
             tmpSession.Socket = tmpClient;
 
             ServerBackend.Instance.ClientSessions.Add(tmpSession);
 
-            tmpClient.BeginReceive(tmpSession.Buffer, 0, tmpSession.Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCommand), tmpSession);
+            tmpClient.BeginReceive(tmpSession.Buffer, 0, tmpSession.Buffer.Length, SocketFlags.None, new AsyncCallback(this.ReceiveCommand), tmpSession);
         }
 
+        /// <summary>
+        /// Recives Command From The Server And Sends Reply Executes It And Send Responde If Command Is Not Null And Still Recives 
+        /// </summary>
+        /// <param name="result">IAsyncResult Will Be Used For The Call Back</param>
         public void ReceiveCommand(IAsyncResult result)
         {
             Session tmpSession = (Session)result.AsyncState;
@@ -102,7 +118,7 @@ namespace IRCServer1
             }
 
             // Loop Receive
-            tmpSession.Socket.BeginReceive(tmpSession.Buffer, 0, tmpSession.Buffer.Length, SocketFlags.None, new AsyncCallback(ReceiveCommand), tmpSession);
+            tmpSession.Socket.BeginReceive(tmpSession.Buffer, 0, tmpSession.Buffer.Length, SocketFlags.None, new AsyncCallback(this.ReceiveCommand), tmpSession);
 
             // Execute
             IRCCommandBase command = CommandFactory.GetCommandFromMessage(Encoding.ASCII.GetString(tmpSession.Buffer, 0, msgRcv), tmpSession);
@@ -117,10 +133,14 @@ namespace IRCServer1
                 reply = command.ExecuteCommand(tmpSession);
             }
 
-            // Send Server's Reply
-            tmpSession.Socket.BeginSend(Encoding.ASCII.GetBytes(reply), 0, reply.Length, SocketFlags.None, new AsyncCallback(FinalizeSending), tmpSession);
+            // Begins Send From Sockets Using The GetBytes And Calls Back With FinalizeSending
+            tmpSession.Socket.BeginSend(Encoding.ASCII.GetBytes(reply), 0, reply.Length, SocketFlags.None, new AsyncCallback(this.FinalizeSending), tmpSession);
         }
 
+        /// <summary>
+        /// This Function Is A Call Back That Ends The Sending And Closes The Socket
+        /// </summary>
+        /// <param name="result">IAsyncResult result That Is Used For The Call Backs</param>
         public void FinalizeSending(IAsyncResult result)
         {
             Session tmpSession = (Session)result.AsyncState;

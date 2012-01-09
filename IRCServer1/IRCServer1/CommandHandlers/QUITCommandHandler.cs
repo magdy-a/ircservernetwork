@@ -1,12 +1,21 @@
-﻿using System;
-using IRCServer1.Backend;
-using IRCServer1.Entities;
-using IRCServer1.Entities.Commands;
-
-namespace IRCServer1.CommandHandlers
+﻿namespace IRCServer1.CommandHandlers
 {
+    using System;
+    using Backend;
+    using Entities;
+    using Entities.Commands;
+
+    /// <summary>
+    /// Handles quit commands
+    /// </summary>
     internal class QUITCommandHandler : CommandHandlerBase
     {
+        /// <summary>
+        /// Handlse The Quit Command 
+        /// </summary>
+        /// <param name="command">The Command that I Will Handle</param>
+        /// <param name="session">holds my data</param>
+        /// <returns>Reponse to this command</returns>
         public override string HandleCommand(IRCCommandBase command, Session session)
         {
             if (command is QUITCommand)
@@ -15,7 +24,7 @@ namespace IRCServer1.CommandHandlers
                 ServerBackend.Instance.Users.Remove(session.User);
                 session.ConnectionState = ConnectionState.Destroyed;
                 ServerBackend.Instance.ClientSessions.Remove(session);
-                return String.Empty;
+                return string.Empty;
             }
             else
             {

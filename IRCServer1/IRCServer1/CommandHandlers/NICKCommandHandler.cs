@@ -10,6 +10,12 @@
     /// </summary>
     internal class NICKCommandHandler : CommandHandlerBase
     {
+        /// <summary>
+        /// Handlse The nick Command 
+        /// </summary>
+        /// <param name="command">The Command that I Will Handle</param>
+        /// <param name="session">holds my data</param>
+        /// <returns>Reponse to this command</returns>
         public override string HandleCommand(IRCCommandBase command, Session session)
         {
             if (command is NICKCommand)
@@ -26,8 +32,8 @@
                 // Check if ERR_NICKNAMEINUSE, if the Nick Name is already in the Server
                 foreach (User u in ServerBackend.Instance.Users)
                 {
-                    // If the user (which is not me), has the same Nick Name, Ignore
-                    //if (nickCommand.Message.CompareTo(u.Nickname) == 0)
+                    //// If the user (which is not me), has the same Nick Name, Ignore
+                   ////if (nickCommand.Message.CompareTo(u.Nickname) == 0)
                     if (nickCommand.Message == u.Nickname)
                     {
                         return Utilities.Errors.GetErrorResponse(Utilities.ErrorCode.ERR_NICKNAMEINUSE, u.Nickname);
