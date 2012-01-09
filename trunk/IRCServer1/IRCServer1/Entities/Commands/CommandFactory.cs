@@ -14,7 +14,7 @@
         /// </summary>
         /// <param name="message">the recived message</param>
         /// <param name="session">holds data for my server</param>
-        /// <returns>a command</returns>
+        /// <returns>The command created from the Message</returns>
         public static IRCCommandBase GetCommandFromMessage(string message, Session session)
         {
             string[] parameters = Utilities.CommandParser.GetParameters(message);

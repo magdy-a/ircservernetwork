@@ -34,3 +34,9 @@ C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1
 C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe
 C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\bin\Debug\IRCServer1.pdb
 C:\Users\AhemedAlaaHagag\Desktop\IRCServer Adding stylecop\IRCServer1\IRCServer1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe.config
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.exe
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\obj\x86\Debug\IRCServer1.pdb
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\bin\Debug\IRCServer1.exe
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\bin\Debug\IRCServer1.pdb
+E:\College\Networking\Lab\IRCProject\IRCServer1\IRCServer1\obj\x86\Debug\ResolveAssemblyReference.cache
