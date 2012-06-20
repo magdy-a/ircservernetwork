@@ -1,0 +1,29 @@
+﻿I can't know where is the bug, that make the NickNameInUseTest, fails sometimes and passes sometimes, without changing a line the code, and the tester was the only socket prgram I use, this happened with some of my friends
+
+New Classes:
+
+1. Settings: this class carries the functions of loading and saving the settings.txt file, which carry the serverPath and solPath, so that I don't enter them every time
+2. Configuration: is the Object the Settings class use to read and write the settings.txt file
+3. TestUtility: carries the functions considering the ID's of each Test in an Enum, gets a test from an ID, or a TestType object
+4. Logger: Logging the Runs
+
+Changes In MainForm: every change is stated in the code as // TODO Comments and regions
+
+Running:
+Before and After any Run, "PreRun" & "PostRun" should be called
+
+Logging Files:
+-Open from the Browse button, or by Drag&Drop 
+
+In Phase2: 
+-Fill the Enum "TestType" in file( with the New Tests of "Phase2", and assign ID's To it
+-Fill the Switch case in function "GetTest" in Class "TestUtility", that takes the TestType Object, then returns new object of this type
+
+UI Changes:
+-Loading: If the settings file exists and contains data, it'll set the data in the txtBox of each path
+-Form: Resizable with all the Anchors in controls set, you can resize from the resize sign on the bottom right of the form
+-Drag&Drop: you can drag & drop any file, it is was "EXE" || "SLN", it's path would be set in the txtBox, and it'll be saved in the settings file
+-Run: After Each Run, the Log is saved
+-Upload: after each run, it'll check that all tests are passed, if so, it will show the Upload Button
+-Header: Click and Drag to move, Double Click on Header to Maximize
+-Themes buttons below the ListView of all lists on the right, Double click on Border to set Custom Theme
