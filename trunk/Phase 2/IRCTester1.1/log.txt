@@ -1,0 +1,45 @@
+-----------------------------------------------------
+DateTime: 1/9/2012 8:54:34 AM
+For 15 Test Case(s) :: 12 passed testObject(s), 3 failed testObject(s).
+Passed:
+Single Daemon ADDUSER
+Single Daemon ADDUSER No Nick
+Single Daemon REMOVEUSER
+Single Daemon REMOVEUSER No Nick
+Single Daemon NEXTHOP Non-existing user
+Single Daemon NEXTHOP No Nick
+2 Daemons NextHop
+Full Network NextHop
+Node Acknowledgement
+LSA Flooding
+Multi Users NextHop
+Corrected LSA
+Failed:
+User Table
+Node Down Broadcast Silence
+Node Down Rerouting
+
+
+
+-----------------------------------------------------
+DateTime: 1/9/2012 9:34:55 AM
+For 15 Test Case(s) :: 15 passed testObject(s), 0 failed testObject(s).
+Passed:
+Single Daemon ADDUSER
+Single Daemon ADDUSER No Nick
+Single Daemon REMOVEUSER
+Single Daemon REMOVEUSER No Nick
+Single Daemon NEXTHOP Non-existing user
+Single Daemon NEXTHOP No Nick
+2 Daemons NextHop
+User Table
+Full Network NextHop
+Node Acknowledgement
+LSA Flooding
+Multi Users NextHop
+Node Down Broadcast Silence
+Corrected LSA
+Node Down Rerouting
+
+Congratulations
+

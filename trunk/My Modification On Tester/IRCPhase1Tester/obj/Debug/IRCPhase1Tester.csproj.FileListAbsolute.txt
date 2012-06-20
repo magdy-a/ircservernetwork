@@ -1,0 +1,54 @@
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.exe
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.pdb
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.dll
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.xml
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.MainForm.resources
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Properties.Resources.resources
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.csproj.GenerateResource.Cache
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.exe
+D:\TA work\Networks\IRC\AutomatedTool\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.pdb
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.exe
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.pdb
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.exe
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.pdb
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.dll
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.xml
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.MainForm.resources
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\IRCPhase1TesterEmpty\IRCPhase1TesterEmpty\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Phase2Tester.resources
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.exe
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.pdb
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.dll
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.xml
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Phase2Tester.resources
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.MainForm.resources
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.exe
+C:\Users\Ahmad\Desktop\Projects\Network\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.pdb
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.exe
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.pdb
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.exe
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.pdb
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.dll
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.xml
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Phase2Tester.resources
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.MainForm.resources
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Properties.Resources.resources
+E:\College\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.csproj.GenerateResource.Cache
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.exe
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.pdb
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.exe
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\IRCPhase1Tester.pdb
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.dll
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\bin\Debug\AWSSDK.xml
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Phase2Tester.resources
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.MainForm.resources
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.Properties.Resources.resources
+E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Tester\IRCPhase1Tester\IRCPhase1Tester\obj\Debug\IRCPhase1Tester.csproj.GenerateResource.Cache

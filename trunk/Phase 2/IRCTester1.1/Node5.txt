@@ -1,0 +1,2131 @@
+DateTime: 1/9/2012 8:37:23 AM
+Message : ==================================================================================================================
+========================================Starting New Session=====================================
+==================================================================================================================
+
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : Loaded configuration file
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : Initializing Routing Daemon Sockets
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : Daemon Started Successfully
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:23 AM
+Message : Server Binded Localport : 9051 ,With IP :127.0.0.1:3344
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:26 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:28 AM
+Message : Received command adduser test2 from IRC server.
+ 
+DateTime: 1/9/2012 8:37:28 AM
+Message : Sending NextHopResponse to ircServer :: OK
+ 
+DateTime: 1/9/2012 8:37:29 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:29 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:29 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:32 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:32 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:32 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:35 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:35 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:35 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:38 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:38 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:38 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:41 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:41 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:41 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:44 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:44 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:44 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:47 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:47 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:47 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:50 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:50 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:50 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : Received LSA with Users Count > 0 from Node 1, Users :: test1
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:37:53 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : ==================================================================================================================
+========================================Starting New Session=====================================
+==================================================================================================================
+
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : Loaded configuration file
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : Initializing Routing Daemon Sockets
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : Daemon Started Successfully
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Received Acknowledgment from Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : Server Binded Localport : 9051 ,With IP :127.0.0.1:3599
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:09 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:12 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:47:12 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:12 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 8:47:12 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:14 AM
+Message : Received command adduser test2 from IRC server.
+ 
+DateTime: 1/9/2012 8:47:14 AM
+Message : Sending NextHopResponse to ircServer :: OK
+ 
+DateTime: 1/9/2012 8:47:15 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:18 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:21 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:24 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:27 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:30 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:33 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:36 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received Acknowledgment from Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : Received LSA with Users Count > 0 from Node 1, Users :: test1
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 8:47:39 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 8:47:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:48:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:48:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:48:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:48:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:48:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:48:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:48:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:48:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:49:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:49:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:49:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:49:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:49:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:49:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:49:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:49:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:50:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:50:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:50:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:50:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:50:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:50:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:50:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:50:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:51:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:51:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:51:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:51:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:51:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:51:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:51:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:51:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:52:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:52:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:52:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:52:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:52:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:52:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:52:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:52:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:53:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:53:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:53:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:30 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:30 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:33 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:33 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:36 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:36 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:39 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:53:39 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:53:39 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:53:39 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:39 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:42 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:42 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:45 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:45 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:48 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:48 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:51 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:51 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:53:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:53:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:09 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 8:54:09 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 8:54:09 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 8:54:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 8:54:27 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 8:54:27 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : ==================================================================================================================
+========================================Starting New Session=====================================
+==================================================================================================================
+
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : Loaded configuration file
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : Initializing Routing Daemon Sockets
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : Daemon Started Successfully
+ 
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : Server Binded Localport : 9051 ,With IP :127.0.0.1:4365
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:54 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:21:57 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:21:57 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:21:57 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 9:21:59 AM
+Message : Received command adduser test2 from IRC server.
+ 
+DateTime: 1/9/2012 9:21:59 AM
+Message : Sending NextHopResponse to ircServer :: OK
+ 
+DateTime: 1/9/2012 9:22:00 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:00 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:03 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:03 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:06 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:06 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:09 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:09 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:12 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:12 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:15 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:15 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:18 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:18 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:21 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:21 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : Received LSA with Users Count > 0 from Node 1, Users :: test1
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Received Acknowledgment from Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:22:24 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : ==================================================================================================================
+========================================Starting New Session=====================================
+==================================================================================================================
+
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : Loaded configuration file
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : Initializing Routing Daemon Sockets
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : Daemon Started Successfully
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : Server Binded Localport : 9051 ,With IP :127.0.0.1:4495
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:10 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 1/9/2012 9:32:13 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 1/9/2012 9:32:15 AM
+Message : Received command adduser test2 from IRC server.
+ 
+DateTime: 1/9/2012 9:32:15 AM
+Message : Sending NextHopResponse to ircServer :: OK
+ 
+DateTime: 1/9/2012 9:32:16 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:16 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:19 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:19 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:22 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:22 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:25 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:25 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:28 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:28 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:31 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:31 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:34 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:34 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:37 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:37 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : Received LSA with Users Count > 0 from Node 1, Users :: test1
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Received Acknowledgment from Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:40 AM
+Message : [WaitForLSAs] Flood LSA :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 1/9/2012 9:32:43 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:10 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:33:10 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:33:10 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:33:10 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:10 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:13 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:13 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:16 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:16 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:19 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:19 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:22 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:22 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:25 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:25 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:28 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:28 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:31 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:31 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:34 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:34 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:37 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:37 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:40 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:33:40 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:33:40 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:33:40 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:40 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:43 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:43 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:46 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:46 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:49 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:49 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:52 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:52 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:55 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:55 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:33:58 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:33:58 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:01 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:01 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:04 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:04 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:07 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:07 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:10 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:34:10 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:34:10 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:34:10 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:10 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:13 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:13 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:16 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:16 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:19 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:19 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:22 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:22 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:25 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:25 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:28 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:28 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:31 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:31 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:34 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:34 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:37 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:37 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [MarkNeighborAsDown] check initialized
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [MarkNeighborAsDown] Marking Node 3 as down
+ 
+DateTime: 1/9/2012 9:34:40 AM
+Message : [MarkNeighborAsDown] check finished.
+ 
+DateTime: 1/9/2012 9:34:43 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : ==================================================================================================================
+========================================Starting New Session=====================================
+==================================================================================================================
+
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : Loaded configuration file
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : Initializing Routing Daemon Sockets
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : Daemon Started Successfully
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : Server Binded Localport : 9051 ,With IP :127.0.0.1:4755
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:19 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 1
+ 
+DateTime: 6/20/2012 2:18:22 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:22 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:22 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:24 AM
+Message : Received command adduser test2 from IRC server.
+ 
+DateTime: 6/20/2012 2:18:24 AM
+Message : Sending NextHopResponse to ircServer :: OK
+ 
+DateTime: 6/20/2012 2:18:25 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:25 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:25 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:28 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:28 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:28 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:31 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:31 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:31 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:34 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:34 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:34 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:37 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:37 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:37 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:40 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:40 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:40 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:43 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:43 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:43 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:46 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:46 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:46 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Received LSA from Node: 1 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : Received LSA with Users Count > 0 from Node 1, Users :: test1
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [BroadcastLSA] Initializing...
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Flood LSA :1 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [BroadcastLSA] LSA sent to 127.0.0.1:9032
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [BroadcastLSA] Finished.
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Received LSA from Node: 2 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Flood LSA :2 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Received LSA from Node: 3 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Flood LSA :3 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Received LSA from Node: 4 via Node: 3
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Sent ACK :IRCPhase2.Entities.LSA EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:49 AM
+Message : [WaitForLSAs] Flood LSA :4 EndPoint: 127.0.0.1:9032, #LSA: 2
+ 
+DateTime: 6/20/2012 2:18:52 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:52 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:52 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:55 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:55 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:55 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 
+DateTime: 6/20/2012 2:18:58 AM
+Message : [WaitForAck] Checking if all up neighbors have sent ACKs
+ 
+DateTime: 6/20/2012 2:18:58 AM
+Message : [WaitForAck] Retransmitting LSA to Node: 3
+ 
+DateTime: 6/20/2012 2:18:58 AM
+Message : [WaitForLSAs] LSA of Node 3 is duplicate. Ignoring it.
+ 

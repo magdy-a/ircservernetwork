@@ -1,0 +1,61 @@
+=================================cmd Commands===================================================
+
+d96da4a8-507d-4b0e-a395-d281ca051048
+
+// New TASKS :D
+Here is the description of the new advanced tests:
+1. MultiUsersNextHop: Starts two daemons and adds multiple users to each. Then NEXTHOPs on a couple of these users.
+2. NodeDownBroadcastSilence: Brings a node down, and makes sure you stop sending it broadcasts after a while. This relies on how you handle marking a neighbor as down.
+3. CorrectedLSA: Sends an out of sequence LSA to your routing daemon and makes sure you respond with the corrected LSA.
+4. NodeDownReroute: Starts the 5 daemons, then brings node 3 and node 2 down. It then starts node 2 with a connection to node 4. A NEXTHOP to a user in node 4 should now be rerouted through node 2, and should return OK 2 2. This relies on how you handle marking as down and updating the routing table.
+
+cd "Documents\Visual Studio 2010\Projects\IRCPhase2\IRCPhase2\bin\Debug\"
+cd C:\Users\Ahmad\Desktop\MyRoutingDaemon\MyRoutingDaemon\bin\Debug
+cd "E:\Collection\College Materials\Fourth Year\Semester One\Networking\Lab\Backup\Phase 2\12 8-PM Working\IRCPhase2\IRCPhase2\bin\Debug"
+
+MyRoutingDaemon.exe -i 1 -c Node1.config
+MyRoutingDaemon.exe -i 2 -c Node2.config
+MyRoutingDaemon.exe -i 3 -c Node3.config
+MyRoutingDaemon.exe -i 4 -c Node4.config
+MyRoutingDaemon.exe -i 5 -c Node5.config
+
+IRCPhase2.exe -i 1 -c Node1.config
+IRCPhase2.exe -i 2 -c Node2.config
+IRCPhase2.exe -i 3 -c Node3.config
+IRCPhase2.exe -i 4 -c Node4.config
+IRCPhase2.exe -i 5 -c Node5.config
+
+
+==================================Unsolved Question=============================================
+
+-How can I differeniate between old and very old routes, and what is the difference between expire and delete ... in routing daemon pesoudoCode loop ?
+
+-is reducing the TTL after each HOP, and if it reaches ZERO I destroy it, is the daemon responsability ?
+
+-Why the LSAType is 2 bytes, it's possible values are (0&1)(Ack||Adv) ?
+
+-What should Happend if I open 2 routing daemon at the same time, and I created a user with the same NickName,
+  In the I tried it, won't throw an error, because the flooding didn't happen yet
+  so should I force the BroadCasting in case of User Remove || User Add, or with any event
+
+==================================Solved Questions==============================================
+
+*If I received a new message from B, I should flood the announcment to all except B, then update my table !!
+
+-If the received LSA is accepted it is flooded to all neighbors except the source neighbor >>> what is the conditions that an LSA is considered Accepted, (ex: newer than mine, or what else ??? ) 
+sol: only Sequence Number is newer!!
+
+-An acknowledgement is only sent to an LSA belonging to a neighbor and not flooded LSAs >>> what is the meaning of this statment ?
+ sol: it means that the Ack LSA's is a response and not an Adv to all Nodes, just the Neighbour   Ack you that he is alive, don't flood it to your neighbours !!
+
+-What is the LSA cache, used in updating the BackEnd ?
+ sol: the current LSA I have
+
+-How the Server communicates with other servers ?
+ sol: Server & client are on the same port for each server, and you don't need to know this part,   it is not one of our concern !!
+
+-What is the difference between Advertisment & Announcment ?? 
+ sol: Advertismet: resend of flood the messages you received, Announcment: each period of time     you should announce yourself to your neighbours !!
+
+-How can I design the Ack Packet, should be Implemented as NumOfEntries = ZERO, Or the packet should be designed without any entries ??
+sol: use the designed LSA without any entries

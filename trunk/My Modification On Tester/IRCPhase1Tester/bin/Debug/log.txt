@@ -1,0 +1,151 @@
+-----------------------------------------------------
+DateTime: 12/31/2011 6:40:05 PM
+For 6 Test Case(s) :: 6 passed testObject(s), 0 failed testObject(s).
+Passed:
+USER Command Happy Scenario
+USER Command Missing Params
+NICK Command Happy Scenario
+NICK Command Nick in Use
+NICK Command No Nick Given
+Unknown Command
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 9:53:48 AM
+For 4 Test Case(s) :: 4 passed testObject(s), 0 failed testObject(s).
+Passed:
+PRIVMSG command No Recipient
+PRIVMSG command No text to send
+PRIVMSG command Ping Pong
+PRIVMSG command Load
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 9:58:16 AM
+For 19 Test Case(s) :: 19 passed testObject(s), 0 failed testObject(s).
+Passed:
+USER Command Happy Scenario
+USER Command Missing Params
+NICK Command Happy Scenario
+NICK Command Nick in Use
+NICK Command No Nick Given
+Unknown Command
+USER Command Already registered
+PRIVMSG command Happy Scenario
+PRIVMSG command No Recipient
+PRIVMSG command No such nick
+PRIVMSG command No text to send
+PRIVMSG command unregistered
+PRIVMSG command unregistered (client sent nick command only)
+PRIVMSG command unregistered (client sent user command only)
+PRIVMSG command with multiple targets Happy Scenario
+PRIVMSG command to multiple targets with non-existing nick.
+PRIVMSG command Ping Pong
+PRIVMSG command Load
+PRIVMSG command Send to unregistered user
+
+Congratulations
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:09:21 AM
+For 1 Test Case(s) :: 1 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:09:58 AM
+For 1 Test Case(s) :: 1 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:10:30 AM
+For 1 Test Case(s) :: 0 passed testObject(s), 1 failed testObject(s).
+Failed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:17:00 AM
+For 1 Test Case(s) :: 0 passed testObject(s), 1 failed testObject(s).
+Failed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:21:20 AM
+For 1 Test Case(s) :: 1 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:21:32 AM
+For 1 Test Case(s) :: 1 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/1/2012 10:21:44 AM
+For 1 Test Case(s) :: 0 passed testObject(s), 1 failed testObject(s).
+Failed:
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/3/2012 12:08:25 AM
+For 3 Test Case(s) :: 3 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Nick in Use
+USER Command Already registered
+PRIVMSG command with multiple targets Happy Scenario
+
+
+
+-----------------------------------------------------
+DateTime: 1/3/2012 12:09:49 AM
+For 2 Test Case(s) :: 2 passed testObject(s), 0 failed testObject(s).
+Passed:
+NICK Command Happy Scenario
+NICK Command Nick in Use
+
+
+
+-----------------------------------------------------
+DateTime: 1/3/2012 12:16:06 AM
+For 19 Test Case(s) :: 19 passed testObject(s), 0 failed testObject(s).
+Passed:
+USER Command Happy Scenario
+USER Command Missing Params
+NICK Command Happy Scenario
+NICK Command Nick in Use
+NICK Command No Nick Given
+Unknown Command
+USER Command Already registered
+PRIVMSG command Happy Scenario
+PRIVMSG command No Recipient
+PRIVMSG command No such nick
+PRIVMSG command No text to send
+PRIVMSG command unregistered
+PRIVMSG command unregistered (client sent nick command only)
+PRIVMSG command unregistered (client sent user command only)
+PRIVMSG command with multiple targets Happy Scenario
+PRIVMSG command to multiple targets with non-existing nick.
+PRIVMSG command Ping Pong
+PRIVMSG command Load
+PRIVMSG command Send to unregistered user
+
+Congratulations
+
