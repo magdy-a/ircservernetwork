@@ -1,0 +1,37 @@
+ramy medhat: 01005690078
+
+d96da4a8-507d-4b0e-a395-d281ca051048
+
+Network CheckList:
+
+-Assign Port number by args (mainFunction, Server Class) "OK"
+
+-Sync User & Nick Command + Errors Class
+-Use Errors Class PrivMsg
+-Implement Excur
+
+
+cd C:\Users\Ahmad\Desktop\IRCServer1\IRCServer1\bin\Debug
+
+IRCServer1.exe 9000
+
+
+
+		Unkown Points:
+
+-if command is accepted, what should be the return ex: OK
+
+-What to do with the ClientID in Session Class
+
+-What to do with the ServerName Parameter in the User Command that client sends me.
+
+-What to do if the NickName's User isn't registered, the distination client sent NickCommand only.
+
+-If in PrivMsg I received 1 param, What error should I return: ERR_NORECIPIENT (0);;ERR_NOTEXTTOSEND(1)
+Behavior with other commands
+
+-For all other commands, your server must return ERR_UNKNOWNCOMMAND. If you are unable to implement one of the
+above commands (perhaps you ran out of time), your server must return the error code ERR_UNKNOWNCOMMAND, rather
+than failing silently, or in some other manner
+
+-In PrivMsg, if the first 2 targets are available, but the third isn't, should I send the message to the avaible only, or send to all, if all and all only are available
