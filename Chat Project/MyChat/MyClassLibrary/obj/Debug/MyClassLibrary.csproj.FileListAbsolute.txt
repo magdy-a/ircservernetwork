@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\MyClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+E:\College\Networking\Lab\Chat Project\MyChat\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\College\Networking\Lab\Chat Project\MyChat\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\College\Networking\Lab\Chat Project\MyChat\MyClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Lab\Chat Project\MyChat\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\College\Networking\Lab\Chat Project\MyChat\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
