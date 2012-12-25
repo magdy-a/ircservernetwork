@@ -1,0 +1,55 @@
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Chat\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\College\Networking\Chat\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+E:\College\Networking\Test\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\College\Networking\Test\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Test\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\College\Networking\Chatting Application\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\College\Networking\Testing\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\College\Networking\Testing\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Testing\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\College\Networking\Testing\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.dll
+E:\College\Networking\Testing\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.dll
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Ahmad\Documents\Visual Studio 2008\Projects\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.dll
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\bin\Debug\MyClassLibrary.pdb
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting.MyClient.resources
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting.Properties.Resources.resources
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb

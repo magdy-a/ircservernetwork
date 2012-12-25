@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chatting Client">
+</Property><Property Name="Solution File" Value="E:\College\Networking\Lab\Chat Project\MyChat\Client - PC\Chatting Client.sln">
+</Property><Property Name="Date" Value="Sunday, October 30, 2011">
+</Property><Property Name="Time" Value="7:13 AM">
+</Property></Properties><Event ErrorLevel="0" Project="ChattingClient" Source="Chatting Client\ChattingClient.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ChattingClient" Source="Chatting Client\ChattingClient.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Chatting Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chatting Client.sln" Description="Converted">
+</Event></UpgradeLog>

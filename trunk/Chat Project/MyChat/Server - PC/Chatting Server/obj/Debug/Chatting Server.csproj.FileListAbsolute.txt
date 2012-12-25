@@ -1,0 +1,60 @@
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\bin\Debug\Chatting Server.exe
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\bin\Debug\Chatting Server.pdb
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\Chatting Server.Form1.resources
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\Chatting Server.Properties.Resources.resources
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\Chatting Server.exe
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Server\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Server\Chatting Server\bin\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Chatting Server\Chatting Server\bin\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Chatting Server\Chatting Server\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Serial via WIFI\Server(Computer)-Client(Gumstix) - Backup ( 4 August 2011 )\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Test Wifi Connectivity\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\bin\Debug\Chatting Server.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Server - PC\Chatting Server_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\Chatting Server.exe
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\Chatting Server.pdb
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\ResolveAssemblyReference.cache
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\Chatting Server.csproj.GenerateResource.Cache
+E:\College\Networking\Chat\Server - PC\Chatting Server\bin\Debug\Chatting Server.exe
+E:\College\Networking\Chat\Server - PC\Chatting Server\bin\Debug\Chatting Server.pdb
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\Chatting.MyServer.resources
+E:\College\Networking\Chat\Server - PC\Chatting Server\obj\Debug\Chatting.Properties.Resources.resources

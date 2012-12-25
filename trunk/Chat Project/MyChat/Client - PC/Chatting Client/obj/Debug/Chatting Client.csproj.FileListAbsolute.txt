@@ -1,0 +1,94 @@
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\Chatting Client.Form1.resources
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\Chatting Client.Properties.Resources.resources
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Dell\Desktop\OPERATIONS\Chatting Client\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Client\Chatting Client\bin\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Chatting Client\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Chatting Client\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 4 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 9 August 2011\UsingList\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011 ( Adding Serial Test )\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011 ( Adding Serial Test )\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+C:\Users\Adel DT\Desktop\Remote Control(Ahmad_Nootbook)\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Client(Computer)-Server(Gumstix) - Backup - 15 August 2011\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Chatting Client_LatencyTest(SameComputerWithWifi&SerialPort)\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\bin\Debug\Chatting Client.exe
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\bin\Debug\Chatting Client.pdb
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\Test_Serial_2.WIFI_PWM_Controller.resources
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\Test_Serial_2.Properties.Resources.resources
+E:\Collection\Gumstix\Serial via WIFI\Testing Client - Server Connection\Client - PC\Chatting Client\obj\Debug\Chatting Client.csproj.GenerateResource.Cache
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting Client.exe
+E:\College\Networking\Chat\Client - PC\Chatting Client\obj\Debug\Chatting Client.pdb
