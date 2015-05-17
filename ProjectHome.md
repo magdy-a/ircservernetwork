@@ -1,0 +1,1 @@
+IRCServer with some basic functions like user name , nick name , private message , quit written in C# using aysnc sockets.
